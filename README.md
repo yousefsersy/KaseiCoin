@@ -11,7 +11,7 @@ The project is divided into the following key components:
 
 ### 1. KaseiCoin Token Contract
 - **Purpose:** Define KaseiCoin as an ERC-20 token, ensuring it is fungible, mintable, and compliant with Ethereum standards.
-- **Libraries Used:**
+- **OpenZeppelin Libraries Used:**
   - `ERC20`
   - `ERC20Detailed`
   - `ERC20Mintable`
